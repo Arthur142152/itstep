@@ -1,0 +1,10 @@
+class Car:
+    speed=110
+model="BMW"
+def info(self)
+
+auto=Car()
+#print("Швидкість авто",auto.speed)
+#print("Модель авто",auto.model)
+auto2-Car()
+#print("Модель авто",auto2.model)
